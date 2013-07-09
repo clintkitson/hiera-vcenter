@@ -1,0 +1,10 @@
+---
+:backends:
+   - vcenter
+:hierarchy:
+   - "%{vminstanceuuid}"
+:vcenter:
+   :server: vcenter01.brswh.local
+   :username: root
+   :password: vmware
+   :key: "%{vminstanceuuid}"
