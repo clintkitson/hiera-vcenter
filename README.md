@@ -4,6 +4,8 @@ This is a VMware vCenter backend for the Hiera external node classifier (ENC) in
 
 The Custom Values are held in a field per VM labled "puppet.classes".
 
+<a href="http://velemental.com/2013/07/10/project-steel-integrating-virtual-machines-guests-with-puppet/">vElemental Blog Post</a>
+
 Install
 =======
 gem install rbvmomi
