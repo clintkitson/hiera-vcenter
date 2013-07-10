@@ -6,6 +6,7 @@ The Custom Values are held in a field per VM labled "puppet.classes".
 
 Install
 =======
+gem install rbvmomi
 gem install hiera-vcenter
 
 Requirements
